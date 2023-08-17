@@ -1,0 +1,6 @@
+
+.cache/
+.cecil/
+_site/
+
+cecil.phar

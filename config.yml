@@ -1,0 +1,8 @@
+title: Portfolio
+baseline: 'version 0.0.1'
+baseurl: 'https://www.maximelemee.fr'
+description: 'Exploration de ma vie, mes projets professionnels et mes loisirs'
+author:
+    name: 'Arnaud Ligny'
+    url: 'https://arnaudligny.fr'
+image: cecil-card.png
